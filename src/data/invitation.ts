@@ -26,8 +26,8 @@ export const hosts = [
 
 export const rsvpNames = [
   "Muhammad Ghazi Sherazi",
-  "Kumail Haider Sherazi",
   "Muhammad Ghamaz Sherazi",
+  "Kumail Haider Sherazi",
   "Muhammad Batish Sherazi",
 ] as const;
 
