@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Walima Invitation//Mobeen Khalid Sherazi//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Asia/Karachi
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:PKT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:walima-mobeen-khalid-sherazi-20261129@walima-invitation
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Asia/Karachi:20261129T200000
+SUMMARY:Walima of Mobeen Khalid Sherazi
+LOCATION:The Mark Suites & Banquet Halls\, 01\, Club Road\, Near Rawal Dam\
+ , Islamabad\, Pakistan.
+DESCRIPTION:Walima dinner at 8:00 PM. Map: https://www.google.com/maps/sear
+ ch/?api=1&query=The+Mark+Suites+%26+Banquet+Halls%2C+01+Club+Road%2C+Islam
+ abad%2C+Pakistan
+END:VEVENT
+END:VCALENDAR
